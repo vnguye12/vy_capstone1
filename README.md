@@ -5,6 +5,14 @@ This project focuses on using classification models in supervised machine learin
 
 The lender can use the best model to estimate the probability of missing payment of an applicant and make decision based on these infomation. They can also compute the best cut off ( A companies will be lent if its probability of missing payments is less than or equal to the cut off) using the interest rate, requested disbursememt amounts and probability of missing payments.
 
+This repository includes:
+* Code for the project
+* Presentation slides
+* Milestone report
+
+
+
+
 The outline of this project is:
 * Proposal
 * Data Wrangling
